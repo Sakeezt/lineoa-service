@@ -995,7 +995,7 @@ export const carousel1 = () => {
                   "backgroundColor": "#ff334b",
                   "offsetStart": "18px",
                   "height": "25px",
-                  "width": "53px"
+                  "width": "100px"
                 }
               ],
               "paddingAll": "0px"
@@ -1125,7 +1125,7 @@ export const carousel1 = () => {
                   "backgroundColor": "#ff334b",
                   "offsetStart": "18px",
                   "height": "25px",
-                  "width": "53px"
+                  "width": "100px"
                 }
               ],
               "paddingAll": "0px"
